@@ -1,0 +1,9 @@
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\bin\Release\PRACTICA_EJECUCION.exe.config
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\bin\Release\PRACTICA_EJECUCION.exe
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\bin\Release\PRACTICA_EJECUCION.pdb
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.Form1.resources
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.Properties.Resources.resources
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.csproj.GenerateResource.cache
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.csproj.CoreCompileInputs.cache
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.exe
+C:\Users\cabre\source\repos\PRACTICA_EJECUCION\PRACTICA_EJECUCION\obj\Release\PRACTICA_EJECUCION.pdb
